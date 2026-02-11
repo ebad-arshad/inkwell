@@ -69,7 +69,6 @@ Create `.env` file in the `server` directory:
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/inkwell
 JWT_SECRET=your-secret-key-here
-NODE_ENV=development
 ```
 
 ### 4. Start the application
