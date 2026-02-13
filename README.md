@@ -1,6 +1,6 @@
 # Inkwell - Blog Application
 
-A modern, full-stack blog platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A modern, full stack blog platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## Features
 
